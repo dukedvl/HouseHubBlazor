@@ -1,4 +1,4 @@
-# BlazorApp2
+# HouseHub Blazor
 
 ![image](https://github.com/dukedvl/HouseHubBlazor/assets/9894325/0e5f5da1-a170-429e-a181-a419ad945049)
 
